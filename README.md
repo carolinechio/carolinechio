@@ -12,6 +12,5 @@
     <img align="center" alt="caroline-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;">
   </a>
 
-  ![Snake animation](https://raw.githubusercontent.com/carolinechio/carolinechio/output/github-contribution-grid-snake.svg)
-    
+  
 </div>
